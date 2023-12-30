@@ -1,6 +1,13 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
+
+/*
+  dependencies:
+    http: ^0.14.0
+*/
+
+
 void main() async {
   // Setting up post fields data
   String gmail = "yourgmail@gmail.com"; // Your account gmail
