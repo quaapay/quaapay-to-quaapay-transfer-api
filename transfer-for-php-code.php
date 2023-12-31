@@ -47,7 +47,7 @@ $postfields = [
     "password" => $pass,
     "amount" => $amount,
     "id" => $walletIds,
-    "receiver" => "quaaapay@gmail.com",
+    "receiver" => $receiver,
     "message" => "here is money for my sisters weeding and preparations take good care of everything. Thank you"
 ];
 
