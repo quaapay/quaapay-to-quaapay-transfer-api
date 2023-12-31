@@ -36,7 +36,7 @@ void main() async {
     "password": password,
     "amount": amount,
     "id": walletIds,
-    "receiver": "quaaapay@gmail.com",
+    "receiver": receiver,
     "message": "here is money for my sisters wedding and preparations take good care of everything. Thank you"
   };
 
